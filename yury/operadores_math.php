@@ -11,6 +11,6 @@ $subtracao = $num1 - $num2;
 
 echo " A subtração entre $num1 e $num2 fica igual a :$subtracao \n";
 
-$multiplicacao = $num1 * $num2;
+$multiplicacao = $num1 * $num2;;
 
 echo "A mutiplicação entre $num1 e $num2 fica igual a :$multiplicacao \n";
